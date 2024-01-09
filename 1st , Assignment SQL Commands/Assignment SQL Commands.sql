@@ -67,8 +67,7 @@ FROM customer;
 -- Q4. 	List different countries.
 
 USE mavenmovies;
-SELECT	country 
-FROM  mavenmovies.country;
+SELECT	* from country;
 
 -- Q5 . Display all active customers.
 
